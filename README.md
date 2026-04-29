@@ -1,1 +1,1 @@
-# ghost-repo!
+# ghost-repo
